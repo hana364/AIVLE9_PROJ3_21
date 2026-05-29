@@ -1,7 +1,3 @@
-# AIVLE9_PROJ3_21
-
----
-
 # 💄 Cosmetic Brand Review Analysis PoC
 
 > **LangGraph Multi-Agent 기반: 속성 감성 분석 시스템**
