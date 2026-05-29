@@ -1,6 +1,6 @@
 # 💄 Cosmetic Brand Review Analysis PoC
 
-> **LangGraph Multi-Agent 기반: 속성 감성 분석 시스템**
+> **LangGraph Multi-Agent 기반: 리뷰 속성 분석 시스템**
 
 본 프로젝트는 코스메틱 브랜드의 프리미엄 브랜드 가치를 정량화하기 위해 단순 감성 분석을 넘어 제품의 세부 속성별로 신뢰도 높은 인사이트를 추출하는 AI 에이전트 시스템입니다.
 
